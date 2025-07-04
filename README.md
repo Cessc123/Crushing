@@ -13,7 +13,8 @@ A whimsical, emotionally expressive HTML web project designed to deliver playful
 ## 🌐 Live Preview
 
 You can view the project at:  
-[https://cessc123.github.io/Coding-Projects/](https://cessc123.github.io/Coding-Projects/)
+https://cessc123.github.io/Crushing/
+
 
 ## 🛠️ Technologies Used
 
